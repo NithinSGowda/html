@@ -1,0 +1,139 @@
+@import url('https://fonts.googleapis.com/css?family=Comfortaa&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Cairo&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Montserrat&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Audiowide&display=swap');
+
+*{
+    font-family: 'Cairo', sans-serif;
+    margin: 0em;
+    padding: 0em;
+    align-content: center;
+    
+    
+}
+.top{
+    
+    color: rgb(255, 255, 255);
+    width: 100%;
+    background-attachment: fixed;
+    
+}
+ul{
+    align-content: center;
+    text-align: center;
+    margin: 0em;
+    overflow: hidden;
+    background-color: rgba(118, 255, 6, 0.815);
+    
+    
+    
+}
+
+.menu{
+    display: inline;
+    
+}
+
+.header{
+    font-size: 3em;
+    text-align: center;
+    text-shadow:5px 4px rgba(0, 0, 0, 0.815);
+    font-family: 'Audiowide', cursive;
+    padding-bottom: 1em;
+    padding-top: 1em;
+    color: rgba(118, 255, 6, 0.815);
+    scrollbar-3dlight-color: greenyellow;
+}
+li{
+    display: inline-block;
+    margin: 0em;
+    padding: 0.7em;
+    padding-left: 1.8em;
+    padding-right: 1.8em;
+    font-size: 1.2em;
+    font-family: 'Montserrat', sans-serif;
+    color: white;
+    
+}
+.content{
+    background-color: rgba(255, 255, 255, 0.904);
+    border-radius: 2%;
+    padding: 4em;
+    margin: 1em;
+    margin-top: 0;
+    border: 3px solid #66D60A;
+    padding-bottom: 7em;
+    
+}
+
+body{
+    background-attachment: fixed;
+
+}
+
+
+.footer{
+    background-color: rgb(29, 29, 29);
+    color: rgb(161, 160, 160);
+    font-weight: bold;
+    font-family: 'Montserrat', sans-serif; 
+    text-align: center;
+    padding-top: 3em;
+    padding-bottom: 3.5em;
+    font-size: 0.9em;
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+
+}
+button{
+    padding-left: 2em;
+    padding-right: 2em;
+    background-color: #007ACC;
+    color: white;
+    font-weight: bold;
+    border: 3px solid  #66D60A;
+    border-radius: 1em;
+    
+}
+
+input{
+    margin-right: 3em;
+    color: #66D60A;
+    background-color: rgb(53, 53, 53);
+    font-weight: bolder;
+    font-size: 1.3em;
+    border: 3px solid #66D60A;
+    border-radius: 1em;
+    padding-left: 1em;
+    padding-right: 1em;
+}
+
+.p1{
+    text-align: center;
+    font-size: 1.7em;
+    margin-bottom: 3em;
+    border-bottom: 2px solid #66D60A;
+    padding-bottom: 0.7em;
+    
+}
+
+li:hover{
+    background-color: rgb(115, 253, 2);
+    cursor: crosshair;
+}
+
+
+
+a{
+    text-decoration: none;
+    color: black;
+    cursor: crosshair;    
+}
+
+.output{
+    margin-top: 2em;
+    
+
+}
